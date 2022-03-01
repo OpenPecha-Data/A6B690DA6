@@ -1,0 +1,18 @@
+segment_sources:
+  P6DCC6AB4:
+    type: origin_type
+    relation: translation
+    language: sa
+  P76B5FF67:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4A1F0E51:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  963764ca277c4a91bcc45d7a096bbd56:
+    P6DCC6AB4: 73edf1055d6549df9286e8560386c461
+    P76B5FF67: 5cfeb3b15b224b88ba55a0a3d30abdfc
+    P4A1F0E51: ee9098192e5349b1bd658ea6cfa119b6
